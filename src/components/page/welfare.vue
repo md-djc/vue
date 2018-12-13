@@ -47,7 +47,7 @@
 	}
 	#welfare .ul7 li{
 		width: 100%;
-		margin-top: -4px;
+		margin-top: -5px;
 	}
 	#welfare .ul7 li img{
 		width: 100%;
